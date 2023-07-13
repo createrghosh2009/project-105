@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+}
+
+.heading {
+    font-size: 30px;
+    color: #dad9dc;
+}
+
+.p_1 {
+    color: red;
+}
+
+.name_of_objects {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.wv_1 {
+    color: chocolate;
+    font-size: 25px;
+}
+
+.rjs {
+    font-size: 25px;
+}
+
+.rjs_1 {
+    font-size: 25px;
+}
